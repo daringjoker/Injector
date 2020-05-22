@@ -5,3 +5,8 @@
 ---
 > usage : 
   ![usage description](/docs/usage.png)
+  
+### TODO:
+   1. Add option for code caving
+   2. Implement the dump on execute feature
+
